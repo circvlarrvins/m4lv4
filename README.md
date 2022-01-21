@@ -1,5 +1,6 @@
 # circvlar rvins m4lv4 v0.6
 Max for Live device for the Roland V-4 Mixer
+![m4lv4 preview](circvlar_rvins_m4lv4_v0.6.JPG)
 
 ## Hardware Requirement:
 - Roland V-4 Mixer attached via MIDI
