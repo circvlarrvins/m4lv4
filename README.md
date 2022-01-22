@@ -1,4 +1,4 @@
-# circvlar rvins m4lv4 v0.6
+# circvlar rvins m4lv4 v0.66
 Max for Live device for the Roland V-4 Mixer
 ![m4lv4 preview](circvlar_rvins_m4lv4_v0.6.JPG)
 
@@ -40,3 +40,7 @@ All controls should be MIDI control mappable and behave like their physical coun
 ## Credits:
 - Inspired by Cat Full of Ghosts Electronics V4/V8 device
 - Created by J. Roman / circvlar rvins
+
+## Changelog
+- v0.6 Initial release.
+- v0.66 Added time delay sanitization of Input Select to prevent input lock up.
